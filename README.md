@@ -1,4 +1,4 @@
-# Repo
+# My First GitHub Repository
 What's in this repository?
 Class Activities / completed following along teacher insrtruction.
 In Class Challenges / Things I've solved on my own or while collarborating with other students in breakout rooms.
